@@ -6,7 +6,10 @@
         "sn": "1130ODN002216",
         "mac1": "7427EA4635C9"
     },
-    "synoinfo": {},
+    "synoinfo": {
+      "supportsystemperature": "no",
+      "supportsystempwarning": "no"
+    },
     "ramdisk_copy": {},
     "extensions": []
 }
